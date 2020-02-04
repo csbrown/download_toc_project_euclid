@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import os
 import argparse
 import subprocess
-import joblib
 import time
 
 ROOT = "https://projecteuclid.org"
